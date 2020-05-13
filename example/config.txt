@@ -1,0 +1,2 @@
+Prefix plugins/CSVNegOnly/example/
+Plugin CSVNegOnly inputfile network.csv outputfile negativeedges.eda
